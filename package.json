@@ -7,7 +7,7 @@
     "start": "tsx Index.tsx",
     "dev": "vite",
     "build": "npx vite build",
-    "build:dev": "vite build --mode development",
+    "build:dev": "npx vite build --mode development",
     "lint": "eslint .",
     "preview": "vite preview"
   },
