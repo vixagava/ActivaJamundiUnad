@@ -77,9 +77,9 @@ const Index = () => {
         <p className="text-sm opacity-80 pt-4 animate-in fade-in duration-700 delay-500">
           Únete a la comunidad de bienestar de Jamundí, Valle del Cauca. 
           <br/>
-          Desarrollado por Tatiana Lenis & Víctor García. 
+          Desarrollado por Grupo Guiar Consultores. 
            <br/>
-          UNAD 2025
+          GGC 2025
         </p>
       </div>
     </div>
